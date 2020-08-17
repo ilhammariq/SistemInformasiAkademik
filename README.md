@@ -1,2 +1,2 @@
-# SistemInformasiAkademik
-Sistem Informasi Akademik XYZ
+# Sistem Informasi Akademik
+Sistem Informasi Akademik XYZ by Ilham Muhammad Ariq
